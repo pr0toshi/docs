@@ -18,6 +18,13 @@ Our team is small, but we're open about wanting to grow. If you feel that you - 
 * Day-To-Day: working on all Solidity contracts underpinning protocol.
 * Discord: d1ll0n#8888
 
+#### Jay-De Burger
+* Role: Protocol Cofounder
+* Developer, Strategy, Mechanism Design
+* Twitter: @not_pr0
+* Experience: Created payment infrastructure @ addrs.to, founded Conjure.finance
+* Day-To-Day: Protocol Design, Project Strategy
+
 #### Dr Laurence E. Day
 
 * Role: Operations/Communications
