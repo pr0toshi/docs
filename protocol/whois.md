@@ -91,11 +91,6 @@ Our team is small, but we're open about wanting to grow. If you feel that you - 
 
 ### Other
 
-#### 'PR0'
-
-* Role: Protocol Cofounder, Angel Investor
-* Status: periodic advice, no current day-to-day involvement.
-
 #### Samuel Gosling
 
 * Role: Initial UI Developer
